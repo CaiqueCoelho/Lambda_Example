@@ -29,4 +29,10 @@ Para um maior entendimento do código deste repositório, [assista nosso vídeo 
 
 [Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
 
-Developed by Build & Run
+### Handler Path in the AWS Console Lambda
+tech.buildrun.lambda.Handler::handleRequest
+
+### Testing
+In Maven, select Lifecycle and click install,
+this will generate a jar file inside the target folder
+And you need to upload the jar file in the AWS console
